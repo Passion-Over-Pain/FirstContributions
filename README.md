@@ -1,3 +1,14 @@
+Some notes o  GitHub vs Team Foundation Server:
+| Category                   | GitHub                                                                 | Team Foundation Server (TFS)                                             |
+|---------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| **Platform Type**         | Cloud-based version control and collaboration platform                 | Self-hosted project management and code versioning platform              |
+| **Version Control System**| Uses Git exclusively for distributed version control                    | Supports both Git and centralized TFVC (Team Foundation Version Control) |
+| **Hosting**               | Hosted by GitHub in the cloud                                           | Requires on-premise/self-hosting by the organization                     |
+| **Integration**           | Integrates with many third-party tools and CI/CD services               | Integrates primarily with Microsoft tools (e.g., Azure DevOps, VS, Teams)|
+| **Community**             | Large global developer community; ideal for open-source projects        | Enterprise-focused; suited for centralized enterprise development        |
+| **Collaboration**         | Built for distributed teams and open collaboration                      | Designed for controlled, internal team access and workflows              |
+
+
 # FirstContributions
 
 > A step-by-step guide for everyone to get started on their open-source journey.
