@@ -1,4 +1,5 @@
-Some notes o  GitHub vs Team Foundation Server:
+Some notes on  GitHub vs Team Foundation Server:
+Has Nothing to do with this Repo :)
 | Category                   | GitHub                                                                 | Team Foundation Server (TFS)                                             |
 |---------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------|
 | **Platform Type**         | Cloud-based version control and collaboration platform                 | Self-hosted project management and code versioning platform              |
